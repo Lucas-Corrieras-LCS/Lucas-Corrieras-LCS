@@ -28,7 +28,7 @@
 ---
 
 ## 📌 **Projects & Work**
-🔹 **[BMW Motorsport](https://github.com/your-repo)** – BMW Motorsport Experience is a two-week MMI project built using HTML, CSS, JavaScript, and PHP. The site features interactive elements, including image uploads, email sending functionality, and a dynamic user experience. Designed for performance and engagement, it offers a seamless and immersive interface. 🚀🏁  
+🔹 **[BMW Motorsport](https://mmi24b11.sae105.ovh/index.php)** – BMW Motorsport Experience is a two-week MMI project built using HTML, CSS, JavaScript, and PHP. The site features interactive elements, including image uploads, email sending functionality, and a dynamic user experience. Designed for performance and engagement, it offers a seamless and immersive interface. 🚀🏁  
 
 🔹 **[Portfolio Website](https://www.lucas-corrieras.com)** – A dynamic portfolio showcasing all my work and projects built using modern web technologies, including HTML, CSS, JavaScript, and React.  
 
