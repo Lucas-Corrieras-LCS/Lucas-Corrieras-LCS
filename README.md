@@ -32,7 +32,7 @@
 
 🔹 **[Portfolio Website](https://www.lucas-corrieras.com)** – A dynamic portfolio showcasing all my work and projects built using modern web technologies, including HTML, CSS, JavaScript, and React.  
 
-🔹 **[VPS](http://http://193.168.147.179)** –A dedicated platform hosting all my coursework and personal projects, built with HTML, Tailwind CSS, and JavaScript. Designed for easy navigation, it allows my professors to access and review my work efficiently.
+🔹 **[VPS](http://193.168.147.179)** –A dedicated platform hosting all my coursework and personal projects, built with HTML, Tailwind CSS, and JavaScript. Designed for easy navigation, it allows my professors to access and review my work efficiently.
 
 ---
 
