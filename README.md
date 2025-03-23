@@ -8,7 +8,7 @@
 ---
 
 ## ✨ **About Me**  
-- 🎯 Specializing in **HTML, CSS, PHP, C++, JavaScript**  
+- 🎯 Specializing in **HTML, Tailwind CSS, PHP, mysql, C++, JavaScript**  
 - ⚡ Currently learning **React** and **Tailwind CSS**  
 - 📈 Goal: **Improve my skills and monetize my expertise**  
 
@@ -31,6 +31,8 @@
 🔹 **[BMW Motorsport](https://mmi24b11.sae105.ovh/index.php)** – BMW Motorsport Experience is a two-week MMI project built using HTML, CSS, JavaScript, and PHP. The site features interactive elements, including image uploads, email sending functionality, and a dynamic user experience. Designed for performance and engagement, it offers a seamless and immersive interface. 🚀🏁  
 
 🔹 **[Portfolio Website](https://www.lucas-corrieras.com)** – A dynamic portfolio showcasing all my work and projects built using modern web technologies, including HTML, CSS, JavaScript, and React.  
+
+🔹 **[VPS](http://http://193.168.147.179)** –A dedicated platform hosting all my coursework and personal projects, built with HTML, Tailwind CSS, and JavaScript. Designed for easy navigation, it allows my professors to access and review my work efficiently.
 
 ---
 
