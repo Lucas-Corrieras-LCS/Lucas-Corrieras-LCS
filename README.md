@@ -29,9 +29,9 @@
 ---
 
 ## 📌 **Projects & Work**
-🔹 **[BMW Motorsport](https://mmi24b11.sae105.ovh/index.php)** – BMW Motorsport Experience is a two-week MMI project built using HTML, CSS, JavaScript, and PHP. The site features interactive elements, including image uploads, email sending functionality, and a dynamic user experience. Designed for performance and engagement, it offers a seamless and immersive interface. 🚀🏁  
+🔹 **[Ferrari](https://mmi24b11.sae203.ovh/index.php)** – A dynamic racing-themed website built with HTML, Tailwind CSS, JavaScript, PHP, and MySQL/MariaDB. Features include image upload and email functionality.
 
-🔹 **[Portfolio Website](https://www.lucas-corrieras.com)** – A dynamic portfolio showcasing all my work and projects built using modern web technologies, including HTML, CSS, JavaScript, and React.  
+🔹 **[Portfolio Website](https://www.lucas-corrieras.com)** -A dynamic and responsive portfolio built with Next.js, React, and Tailwind CSS, showcasing my latest projects and skills as a front-end developer.
 
 🔹 **[VPS](http://193.168.147.179)** –A dedicated platform hosting all my coursework and personal projects, built with HTML, Tailwind CSS, and JavaScript. Designed for easy navigation, it allows my professors to access and review my work efficiently.
 
